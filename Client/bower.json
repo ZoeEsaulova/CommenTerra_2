@@ -1,0 +1,21 @@
+{
+  "name": "Client",
+  "version": "0.0.1",
+  "homepage": "-",
+  "authors": [
+    "Geosoftware II Gruppe 1"
+  ],
+  "description": "CommenTerra Client",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.1"
+  }
+}
